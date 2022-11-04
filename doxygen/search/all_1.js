@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['batch_5fnum_5fmessages_8',['BATCH_NUM_MESSAGES',['../classKAFKA__API_1_1ProducerConfig.html#a39a11abf67f55a76cfbed365e654b486',1,'KAFKA_API::ProducerConfig']]],
-  ['batch_5fsize_9',['BATCH_SIZE',['../classKAFKA__API_1_1ProducerConfig.html#aff0787ba11102fcd7f60beb2b263b351',1,'KAFKA_API::ProducerConfig']]],
-  ['beginningoffsets_10',['beginningOffsets',['../classKAFKA__API_1_1KafkaConsumer.html#abc7682cac64a49e7f0f26d9b8f27ce8e',1,'KAFKA_API::KafkaConsumer']]],
-  ['begintransaction_11',['beginTransaction',['../classKAFKA__API_1_1KafkaProducer.html#a2761bbe3239fda196b9605b453a503e3',1,'KAFKA_API::KafkaProducer']]],
-  ['bootstrap_5fservers_12',['BOOTSTRAP_SERVERS',['../classKAFKA__API_1_1AdminClientConfig.html#a6bdba4917e42012134598231df8b80e4',1,'KAFKA_API::AdminClientConfig::BOOTSTRAP_SERVERS()'],['../classKAFKA__API_1_1ConsumerConfig.html#ad0ea562b0e86cbe5ac0a3aa9bdc063b0',1,'KAFKA_API::ConsumerConfig::BOOTSTRAP_SERVERS()'],['../classKAFKA__API_1_1ProducerConfig.html#a108f38c18143bf94f2983a5110e611d4',1,'KAFKA_API::ProducerConfig::BOOTSTRAP_SERVERS()']]],
-  ['brokermetadata_13',['BrokerMetadata',['../structKAFKA__API_1_1BrokerMetadata.html',1,'KAFKA_API::BrokerMetadata'],['../structKAFKA__API_1_1BrokerMetadata.html#aaba879ec6b501620842bd5970593e2c7',1,'KAFKA_API::BrokerMetadata::BrokerMetadata()']]]
+  ['batch_5fnum_5fmessages_8',['BATCH_NUM_MESSAGES',['../classKAFKA__API_1_1clients_1_1producer_1_1Config.html#a5a65437f3089d74d53bb6237672749cb',1,'KAFKA_API::clients::producer::Config']]],
+  ['batch_5fsize_9',['BATCH_SIZE',['../classKAFKA__API_1_1clients_1_1producer_1_1Config.html#a42e4d949103bc017403eb2236746b679',1,'KAFKA_API::clients::producer::Config']]],
+  ['beginningoffsets_10',['beginningOffsets',['../classKAFKA__API_1_1clients_1_1KafkaConsumer.html#a491d4bf2a07d6c43add3abc4a3de39ad',1,'KAFKA_API::clients::KafkaConsumer']]],
+  ['begintransaction_11',['beginTransaction',['../classKAFKA__API_1_1clients_1_1KafkaProducer.html#afca61ccefbe414997425b20ef17a29be',1,'KAFKA_API::clients::KafkaProducer']]],
+  ['bootstrap_5fservers_12',['BOOTSTRAP_SERVERS',['../classKAFKA__API_1_1clients_1_1admin_1_1Config.html#a101cd624b94a28fbaadcc62c55c1a7be',1,'KAFKA_API::clients::admin::Config::BOOTSTRAP_SERVERS()'],['../classKAFKA__API_1_1clients_1_1consumer_1_1Config.html#a97ef4e31cb9c88deabf4def3c1f0b433',1,'KAFKA_API::clients::consumer::Config::BOOTSTRAP_SERVERS()'],['../classKAFKA__API_1_1clients_1_1producer_1_1Config.html#ade7cedf6d3ef4e9db6d3c2f484d6cdf3',1,'KAFKA_API::clients::producer::Config::BOOTSTRAP_SERVERS()']]],
+  ['brokermetadata_13',['BrokerMetadata',['../structKAFKA__API_1_1BrokerMetadata.html#aaba879ec6b501620842bd5970593e2c7',1,'KAFKA_API::BrokerMetadata::BrokerMetadata()'],['../structKAFKA__API_1_1BrokerMetadata.html',1,'KAFKA_API::BrokerMetadata']]]
 ];

@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['error_142',['Error',['../classKAFKA__API_1_1Error.html',1,'KAFKA_API']]],
-  ['errorwithdetail_143',['ErrorWithDetail',['../structKAFKA__API_1_1ErrorWithDetail.html',1,'KAFKA_API']]]
+  ['deleterecordsresult_159',['DeleteRecordsResult',['../structKAFKA__API_1_1clients_1_1admin_1_1DeleteRecordsResult.html',1,'KAFKA_API::clients::admin']]],
+  ['deletetopicsresult_160',['DeleteTopicsResult',['../structKAFKA__API_1_1clients_1_1admin_1_1DeleteTopicsResult.html',1,'KAFKA_API::clients::admin']]]
 ];

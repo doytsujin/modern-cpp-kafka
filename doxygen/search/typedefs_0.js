@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['callback_280',['Callback',['../namespaceKAFKA__API_1_1Producer.html#a8d1a387e67ae8bd65baf3c6213e9d91f',1,'KAFKA_API::Producer']]]
+  ['errorcallback_306',['ErrorCallback',['../classKAFKA__API_1_1clients_1_1KafkaClient.html#afab1aa1d16f1f2cf47e5e6bdf9feeed3',1,'KAFKA_API::clients::KafkaClient']]]
 ];

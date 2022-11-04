@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['id_189',['id',['../classKAFKA__API_1_1ProducerRecord.html#a782c5a0865862a5b5a002c68d1d91096',1,'KAFKA_API::ProducerRecord']]],
-  ['inittransactions_190',['initTransactions',['../classKAFKA__API_1_1KafkaProducer.html#aa355e0393a7e9e825277b724b22791c1',1,'KAFKA_API::KafkaProducer']]],
-  ['isfatal_191',['isFatal',['../classKAFKA__API_1_1Error.html#acc500247dd9f0fcfc17023d79f364b6f',1,'KAFKA_API::Error::isFatal()'],['../classKAFKA__API_1_1SimpleError.html#a88fdefb6710d7e5e2c66476e5a53ed94',1,'KAFKA_API::SimpleError::isFatal()']]],
-  ['isretriable_192',['isRetriable',['../classKAFKA__API_1_1Error.html#a1d72dcd1de467c4b5e3e7556047e1093',1,'KAFKA_API::Error::isRetriable()'],['../classKAFKA__API_1_1SimpleError.html#a69198c8b161eb013ac24b4f69aebf074',1,'KAFKA_API::SimpleError::isRetriable()']]]
+  ['id_204',['id',['../classKAFKA__API_1_1clients_1_1producer_1_1ProducerRecord.html#ad10b5b29c8eef6326f4fd0ae88b133cc',1,'KAFKA_API::clients::producer::ProducerRecord']]],
+  ['inittransactions_205',['initTransactions',['../classKAFKA__API_1_1clients_1_1KafkaProducer.html#a463d106ff3e96dae657a84d4c94148d2',1,'KAFKA_API::clients::KafkaProducer']]],
+  ['isfatal_206',['isFatal',['../classKAFKA__API_1_1Error.html#a26b6deb2495f65266b73347b1aac80f5',1,'KAFKA_API::Error']]],
+  ['isretriable_207',['isRetriable',['../classKAFKA__API_1_1Error.html#a95a021b323644341c523f9b164e90ee3',1,'KAFKA_API::Error']]]
 ];
